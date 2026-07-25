@@ -812,7 +812,7 @@ class VentanaControl(QMainWindow):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     
-    app.setOrganizationName("MiEmpresa")
+    app.setOrganizationName("YvanTV")
     app.setApplicationName("PresentadorPDF")
 
     window = VentanaControl()
