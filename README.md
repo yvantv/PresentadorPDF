@@ -47,5 +47,5 @@ A lightweight, powerful desktop application built with Python and PyQt6 designed
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/pdf-presenter.git](https://github.com/your-username/pdf-presenter.git)
-   cd pdf-presenter
+   git clone [https://github.com/yvantv/PresentadorPDF.git](https://github.com/yvantv/PresentadorPDF.git)
+   cd PresentadorPDF
